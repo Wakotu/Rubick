@@ -14,5 +14,8 @@ evaluation -> you can directly get the generated fuzz drivers and settings used 
 # Citation
 
 ```
-Update once the online bibref is available.
+@article{zhangautomata,
+  title={Automata-Guided Control-Flow-Sensitive Fuzz Driver Generation},
+  author={Zhang, Cen and Li, Yuekang and Zhou, Hao and Zhang, Xiaohan and Zheng, Yaowen and Zhan, Xian and Xie, Xiaofei and Luo, Xiapu and Li, Xinghua and Liu, Yang and others}
+}
 ```
